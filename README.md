@@ -1,4 +1,5 @@
 # Dijkstra_algorithm_in_postgresql
+다익스트라 알고리즘을 이용하여 최단 경로를 구하는 방법 입니다.
 
 # 데이터 구조
 
